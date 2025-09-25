@@ -2,7 +2,6 @@
 <h3 align="center">I'm Pyotr</h3>
 <h3 align="center"><b>Backend Developer | Python | Go</b></h3>
 
----
 
 ### ⚙️ Tech Stack
 <p align="center">
@@ -43,7 +42,6 @@
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032"/>
 </p>
 
----
 
 ### 🌍 Socials
 <p align="center">

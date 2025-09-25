@@ -61,3 +61,24 @@
   <!-- Активность по годам -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shengnaan&theme=radical" alt="productive time"/>
 </p>
+
+
+<p align="center">
+  <!-- Полная статистика -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=shengnaan&show_icons=true&theme=radical&include_all_commits=true&count_private=true"
+    alt="shengnaan stats" height="180"
+  />
+  <!-- Языки -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shengnaan&layout=compact&theme=radical&hide_progress=false"
+    alt="shengnaan top langs" height="180"
+  />
+</p>
+
+<!-- Карточки без «Joined GitHub» -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shengnaan&theme=radical" alt="stats card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shengnaan&theme=radical" alt="most commit language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shengnaan&theme=radical&utcOffset=+0" alt="productive time" />
+</p>

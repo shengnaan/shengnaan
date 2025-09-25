@@ -82,3 +82,8 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shengnaan&theme=radical" alt="most commit language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shengnaan&theme=radical&utcOffset=+0" alt="productive time" />
 </p>
+
+![Stats](https://raw.githubusercontent.com/shengnaan/shengnaan/main/profile-summary-card-output/radical/3-stats.svg)
+![Top Langs](https://raw.githubusercontent.com/shengnaan/shengnaan/main/profile-summary-card-output/radical/2-most-commit-language.svg)
+![Commits per hour](https://raw.githubusercontent.com/shengnaan/shengnaan/main/profile-summary-card-output/radical/4-productive-time.svg)
+

@@ -1,5 +1,5 @@
 <h1 align="center">Hello, Visitor 👋</h1>
-<h3 align="center">I'm [Твоё имя] from [страна]</h3>
+<h3 align="center">I'm Pyotr</h3>
 
 ---
 

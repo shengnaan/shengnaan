@@ -53,11 +53,11 @@
 ---    
 <p align="center">
   <!-- Вклад в репозитории -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ТВОЙ_НИК&theme=radical" alt="stats card"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shengnaan&theme=radical" alt="stats card"/>
   
   <!-- Самые используемые языки -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ТВОЙ_НИК&theme=radical" alt="most commit language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shengnaan&theme=radical" alt="most commit language"/>
   
   <!-- Активность по годам -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ТВОЙ_НИК&theme=radical" alt="productive time"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shengnaan&theme=radical" alt="productive time"/>
 </p>

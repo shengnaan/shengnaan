@@ -1,13 +1,6 @@
 <h1 align="center">Hello, Visitor 👋</h1>
 <h3 align="center">I'm Pyotr</h3>
-
----
-
-### 🌍 Socials
-<p align="center">
-  <a href="mailto:pelyovinpyotr@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
+<h3 align=center><b>Backend Developer | Python | Go</b></h3>
 ---
 
 ### ⚙️ Tech Stack
@@ -21,12 +14,7 @@
 </p>
 
 ---
-
-
----
-
-### 📊 GitHub Analytics
-
+### 🌍 Socials
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shengnaan&layout=compact&theme=radical" alt="langs" height="180"/>
+  <a href="mailto:pelyovinpyotr@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>

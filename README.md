@@ -1,7 +1,6 @@
 <h1 align="center">Hello, Visitor 👋</h1>
 <h3 align="center">I'm Pyotr</h3>
 <h3 align=center><b>Backend Developer | Python | Go</b></h3>
----
 
 ### ⚙️ Tech Stack
 <p align="center">
@@ -13,7 +12,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
----
+
 ### 🌍 Socials
 <p align="center">
   <a href="mailto:pelyovinpyotr@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
